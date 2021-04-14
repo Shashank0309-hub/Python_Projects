@@ -6,6 +6,10 @@ This a Desktop Assistant. This can help you in opening applications, searching s
 
 ------------------------------------------------------
 
+**Please note all the Modules to be installed on your system
+
+------------------------------------------------------
+
 FUNCTIONALITIES
 
 ------------------------------------------------------
