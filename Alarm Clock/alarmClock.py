@@ -13,7 +13,7 @@ def alarm(set_alarm_timer):
         print(now)
         if now == set_alarm_timer:
             print("Time to wake up !")
-            winsound.PlaySound("E:\\Python Projects\\Alarm Clock\\audio.wav",winsound.SND_FILENAME)
+            winsound.PlaySound("--Location of Audio for Alarm clock",winsound.SND_FILENAME)
             break
 
 def actual_time():
